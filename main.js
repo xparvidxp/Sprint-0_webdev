@@ -1,3 +1,8 @@
+function darkmode() {
+  var element = document.body;
+  element.classList.toggle("light-mode");
+}
+
 const apiURL = 'https://fdnd.directus.app/items/person/283'
 const parentElement = document.querySelector('main')
 
