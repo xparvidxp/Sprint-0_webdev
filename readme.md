@@ -26,3 +26,7 @@ Ik heb geleerd hoe grid werkt, en dark-light mode met variabelen
 Ik wil nmorgen zorgen dat de light-dark switch 1 icoon per keer laat zien, dus of light of dark. Nu laat het beide zien.
 Verder wil ik animaties gaan toevoegen, en wellicht een ander kleurenpallette kiezen.
 
+* Dag 4 Vrijdag 6 februari -
+
+Dark-light mode switch gemaakt dat het 1 icoon per keer laat zien. Ook leerdoelen onder basic info toegevoegd.
+Volgende week animatie toevoegen.
