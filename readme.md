@@ -23,7 +23,7 @@ Vandaag de website gestyled zodat de minimale elementen er goed uitzien. Ook gez
 
 Ik heb geleerd hoe grid werkt, en dark-light mode met variabelen
 
-Ik wil nmorgen zorgen dat de light-dark switch 1 icoon per keer laat zien, dus of light of dark. Nu laat het beide zien.
+Ik wil morgen zorgen dat de light-dark switch 1 icoon per keer laat zien, dus of light of dark. Nu laat het beide zien.
 Verder wil ik animaties gaan toevoegen, en wellicht een ander kleurenpallette kiezen.
 
 * Dag 4 Vrijdag 6 februari -
