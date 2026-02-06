@@ -126,6 +126,7 @@ article .content {
 
 .leerdoelen  {
 	list-style: none;
+	margin: 0px;
 	padding: 1em;
 
 	border-radius: 50px;
