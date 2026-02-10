@@ -28,5 +28,8 @@ Verder wil ik animaties gaan toevoegen, en wellicht een ander kleurenpallette ki
 
 * Dag 4 Vrijdag 6 februari -
 
-Dark-light mode switch gemaakt dat het 1 icoon per keer laat zien. Ook leerdoelen onder basic info toegevoegd.
-Volgende week animatie toevoegen.
+Deze week heb ik stap voor stap gewerkt aan het opbouwen van mijn website waarin ik mezelf voorstel. Op dag 1 begon ik met een ambitieus idee: een geanimeerd 3D eendje waarop je informatie kon aanklikken. Al snel werd duidelijk dat dit te ingewikkeld was voor mijn huidige niveau. Daarom heb ik op dag 2 besloten om eerst te focussen op de minimale eisen en pas later extra functies toe te voegen. Ik heb toen geleerd hoe je API’s linkt en mijn CSS-kennis opgefrist. Op dag 3 heb ik de website verder gestyled, responsive gemaakt en een dark-light mode toegevoegd. Vandaag heb ik de dark-light switch verbeterd zodat er maar één icoon tegelijk zichtbaar is, en ik heb leerdoelen toegevoegd aan de website. Volgende week wil ik animaties toevoegen en het design verder verbeteren.
+
+* Dag 5 Maandag 9 februari -
+
+Vandaag de extra eis gekregen. Deze uitgewerkt en goed gestyled. Een zoekbalk toegevoegd met knop waarin mensen hun eigen data kunnen opzoeken. Ook heeft Kelly last minute uitgelegd hoe je een animatie toevoegt.
