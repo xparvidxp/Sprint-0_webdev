@@ -33,3 +33,7 @@ Deze week heb ik stap voor stap gewerkt aan het opbouwen van mijn website waarin
 * Dag 5 Maandag 9 februari -
 
 Vandaag de extra eis gekregen. Deze uitgewerkt en goed gestyled. Een zoekbalk toegevoegd met knop waarin mensen hun eigen data kunnen opzoeken. Ook heeft Kelly last minute uitgelegd hoe je een animatie toevoegt.
+
+* Dag 6 Dinsdag 10 februari -
+
+Ik heb vandaag tijd gespendeerd aan het 3D modelleren van mijn gekozen badeendje in blender. Dit duurde 5 uur. Ook heb ik de workshop Typografie gevolgd, wat een uur duurde. Ik heb vandaag geleerd hoe ik kan texturen en masken in blender. Morgen ga ik tijd spenderen aan het leren van animatie in blender en als ik extra tijd heb om het badeendje in de website te verwerken.
