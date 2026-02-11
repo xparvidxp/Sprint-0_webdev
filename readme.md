@@ -50,6 +50,14 @@ Ik heb vandaag geleerd hoe ik in Blender een 3D model kan riggen, zodat ik actio
 Ook heb ik geleerd hoe ik materialen kan baken zodat het geexporteerd kan worden naar een ander programma.
 Dit heeft 5 uur geduurd voordat het gelukt is.
 
+
+* Reflectie Week 2 --
+
+Ik ben tevreden met deze week. Heel veel gedaan, en redelijk veel geleerd. Ik denk dat ik de verleiding meer moet weerstaan om dingen op te zoeken, 
+en het eerst zelf te proberen. Daardoor kan je beter dingen onthouden. Het is niet gelukt om het badeendje te importeren op deze website door tijdnood. Wellicht kan ik hem voor een ander project gebruiken. De site voldoet aan de eisen, maar ziet er nog niet spectaculair uit. Daar wil ik in de toekomst meer tijd in stoppen.
+
+
+
 ------
 Bronnenlijst APA
 
