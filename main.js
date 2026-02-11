@@ -54,3 +54,7 @@ async function loadKlasgenoot(id) {
     <p class="birthdate">${response.data.birthdate}</p>
   `;
 }
+
+// ---- Bronnen JS
+// forum.freecodecamp.org. (2024). Retrieved from Transfering the value from HTML input element into Javascript: https://forum.freecodecamp.org/t/transfering-the-value-from-html-input-element-into-javascript/696123/7
+// w3schools. (n.d.). HTML DOM Heading Object. Retrieved from w3schools.com: https://www.w3schools.com/jsref/dom_obj_heading.asp

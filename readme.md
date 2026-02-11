@@ -37,3 +37,29 @@ Vandaag de extra eis gekregen. Deze uitgewerkt en goed gestyled. Een zoekbalk to
 * Dag 6 Dinsdag 10 februari -
 
 Ik heb vandaag tijd gespendeerd aan het 3D modelleren van mijn gekozen badeendje in blender. Dit duurde 5 uur. Ook heb ik de workshop Typografie gevolgd, wat een uur duurde. Ik heb vandaag geleerd hoe ik kan texturen en masken in blender. Morgen ga ik tijd spenderen aan het leren van animatie in blender en als ik extra tijd heb om het badeendje in de website te verwerken.
+
+* Dag 7 Code review -
+
+Vandaag met Aya A. besproken wat beter kan aan de code. In JS ging vooral de volgorde van  variables -> logics -> declaration. 
+Verder had ik in HTML de taal op engels staan terwijl alle tekst in het nederlands was geschreven.
+
+
+* Dag 7 Donderdag 12 februari -
+
+Ik heb vandaag geleerd hoe ik in Blender een 3D model kan riggen, zodat ik action animaties kan toevoegen.
+Ook heb ik geleerd hoe ik materialen kan baken zodat het geexporteerd kan worden naar een ander programma.
+Dit heeft 5 uur geduurd voordat het gelukt is.
+
+------
+Bronnenlijst APA
+
+Adobe. (n.d.). Adobe Fonts. Retrieved from fonts.adobe.com: https://use.typekit.net/brs1ahe.css
+forum.freecodecamp.org. (2024). Retrieved from Transfering the value from HTML input element into Javascript: https://forum.freecodecamp.org/t/transfering-the-value-from-html-input-element-into-javascript/696123/7
+Google. (n.d.). Icons. Retrieved from fonts.google.com: https://fonts.google.com/icons
+w3schools. (n.d.). CSS animations. Retrieved from w3schools.com: https://www.w3schools.com/css/css3_animations.asp
+w3schools. (n.d.). CSS Flexbox. Retrieved from w3schools.com: https://www.w3schools.com/css/css3_flexbox.asp
+w3schools. (n.d.). How TO - Search Button. Retrieved from w3schools.com: https://www.w3schools.com/howto/howto_css_search_button.asp
+w3schools. (n.d.). HTML <h1> to <h6> Tags. Retrieved from w3schools.com: https://www.w3schools.com/tags/tag_hn.asp
+w3schools. (n.d.). HTML DOM Heading Object. Retrieved from w3schools.com: https://www.w3schools.com/jsref/dom_obj_heading.asp
+w3schools. (n.d.). w3schools.com. Retrieved from CSS Grid Layout: https://www.w3schools.com/css/css_grid.asp
+
